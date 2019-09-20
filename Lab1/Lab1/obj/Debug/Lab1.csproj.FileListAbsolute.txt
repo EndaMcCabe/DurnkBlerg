@@ -1,0 +1,7 @@
+H:\Year 3\Advanced intern\Lab1\Lab1\bin\Debug\Lab1.exe.config
+H:\Year 3\Advanced intern\Lab1\Lab1\bin\Debug\Lab1.exe
+H:\Year 3\Advanced intern\Lab1\Lab1\bin\Debug\Lab1.pdb
+H:\Year 3\Advanced intern\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+H:\Year 3\Advanced intern\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+H:\Year 3\Advanced intern\Lab1\Lab1\obj\Debug\Lab1.exe
+H:\Year 3\Advanced intern\Lab1\Lab1\obj\Debug\Lab1.pdb
