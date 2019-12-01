@@ -1,0 +1,26 @@
+body
+{
+	background-color: #6699cc;
+	text-align: center;
+	color: white;
+}
+#stat1{
+	border: 1px solid black;
+	padding: 10px;
+	margin: 0 auto;
+}
+#stat2{
+	border: 1px solid black;
+	padding: 10px;
+	margin: 0 auto;
+}
+#stat3{
+	border: 1px solid black;
+	padding: 10px;
+	margin: 0 auto;
+}
+#stat4{
+	border: 1px solid black;
+	padding: 10px;
+	margin: 0 auto;
+}
