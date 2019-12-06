@@ -1,26 +1,45 @@
-body
+body{
+	background-image: url("bar.jpg");
+}
+#header{
+	text-align: center;
+}
+.content
 {
-	background-color: #6699cc;
 	text-align: center;
 	color: white;
+	margin: 0 auto;
+	width: 60%;
+}
+.graphs{
+	float: left;
+	height: 50%;
+	width: 50%;
 }
 #stat1{
+	background-color: #6699cc;
 	border: 1px solid black;
 	padding: 10px;
-	margin: 0 auto;
 }
 #stat2{
+	background-color: #6699cc;
 	border: 1px solid black;
 	padding: 10px;
-	margin: 0 auto;
 }
 #stat3{
+	background-color: #6699cc;
 	border: 1px solid black;
 	padding: 10px;
-	margin: 0 auto;
 }
 #stat4{
+	background-color: #6699cc;
 	border: 1px solid black;
 	padding: 10px;
+}
+#chartContainer{
 	margin: 0 auto;
+	height: 300px;
+}
+h1{
+	text-color: white;
 }
